@@ -1,6 +1,6 @@
-# 🔐 SwiftUI Custom PIN View (Code Project)
+# 🔐 SwiftUI Custom PIN View
 
-A fully customizable and optimized **PIN/OTP input view built with SwiftUI**. This is a **code project** (not a library), allowing you to **clone, explore, and modify** the implementation as per your needs.
+A fully customizable and optimized **PIN/OTP input view built with SwiftUI**. This is a **code project**, allowing you to **clone, explore, and modify** the implementation as per your needs.
 
 ---
 
